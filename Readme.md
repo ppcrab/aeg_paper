@@ -12,3 +12,9 @@
 
 [aeg相关论文整理](http://www.xderedu.com/2021/08/08/Automatic-Exploit-Generation-Papers/) 还有好多都没有读过，以后应该会以这个为基础筛选出来需要的论文
 
+
+
+[2021datecon 自动化漏洞挖掘](http://datacon.qianxin.com/blog/archives/247)
+
+[angr-ReachingDefinitionsAnalysis](https://juejin.cn/post/6995089155424272398)
+
